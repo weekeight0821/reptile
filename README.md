@@ -1,4 +1,4 @@
-
+Build Status Total Downloads Latest Stable Version License
 一、名称
 
 Fielding将他对互联网软件的架构原则，定名为REST，即Representational State Transfer的缩写。我对这个词组的翻译是"表现层状态转化"。
